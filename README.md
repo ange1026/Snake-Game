@@ -21,6 +21,7 @@ As an user, I want the ability to...
 -See an announcement that the game is over.
 
 ## Wireframes / Screenchots
+![IMG_0458](https://user-images.githubusercontent.com/77081100/190926274-def3ee8d-0cf2-41cc-9c45-40c560f68968.jpg)
 
 ![IMG_0458](https://user-images.githubusercontent.com/77081100/190926274-def3ee8d-0cf2-41cc-9c45-40c560f68968.jpg)
 
